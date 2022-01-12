@@ -1,0 +1,5 @@
+(define (main)
+  (  (cond ((> 2 1)(display "n > 1"))
+      ((zero?0)('=))
+     )))
+(main)

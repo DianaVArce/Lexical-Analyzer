@@ -1,0 +1,16 @@
+# Specify filepatterns you want git to ignore.
+.idea
+*.o
+*.out
+/P2-*.p1
+/P2-*.p2
+/P2-*.lst
+/P2-*.dbg
+P2Tests/*.dbg
+P2Tests/*.lst
+P2Tests/*.p1
+P2Tests/*.p2
+P2TestsPickup/*.dbg
+P2TestsPickup/*.lst
+P2TestsPickup/*.p1
+P2TestsPickup/*.p2

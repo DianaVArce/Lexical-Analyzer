@@ -1,0 +1,5 @@
+(define (main)
+  (x 1)
+  '(newline)
+)
+(main)
